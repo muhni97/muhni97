@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm currently working on a CRUD project
+I'm currently working on a CRUD project,
 I'm learning vue.js
 
 ## 🌐Socials
